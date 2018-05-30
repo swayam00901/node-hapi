@@ -1,0 +1,14 @@
+{
+  "name": "node_hapi",
+  "version": "1.0.0",
+  "description": "Contains sample crud operation using hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swayam Pattanayak",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.0"
+  }
+}
